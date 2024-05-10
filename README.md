@@ -18,6 +18,10 @@ dependency injection, repository pattern, and separation of concerns. Other
 solutions didn't generate a code with such architecture, which could deteriorate
 the code legibility in an existing project.
 
+## Run the project
+
+TBD
+
 ## Other similar projects
 
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) from OpenAPITools
