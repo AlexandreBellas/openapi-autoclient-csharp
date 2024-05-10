@@ -1,6 +1,7 @@
 # OpenAPI autoclient for C#
 
-An automatic client generator written in Typescript.
+An automatic C# client generator written in Typescript.
+
 Under development.
 
 ## What it does
